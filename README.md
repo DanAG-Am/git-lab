@@ -9,7 +9,7 @@ Amilka Daniela Lopez Aguilar
 ## Contents 
 
 ### Images
-
+![Cat Image](/cats.webp)
 ## References 
 [Github documentation](https://docs.github.com/en)
 
