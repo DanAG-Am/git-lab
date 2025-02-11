@@ -1,15 +1,24 @@
 # Git and Github laboratory
 
-
 ## Description
 Git practice laboratory
 Are you still reading?
 Amilka Daniela Lopez Aguilar
 
 ## Contents 
-
 ### Images
 ![Cat Image](/cats.webp)
+### Code Examples
+```python numOne = 2```
+```python numTwo = 3```
+```python sum = numOne + numTwo```
+```python print("numOne + numTwo = ", sum)```
+
+### Lists
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## References 
 [Github documentation](https://docs.github.com/en)
 
