@@ -8,7 +8,6 @@ Amilka Daniela Lopez Aguilar
 ## Contents 
 ### Images
 ![Cat Image](/cats.webp)
-![Second Cat Image](/catsTwo.webp)
 ### Code Examples
 ```python numOne = 2```
 ```python numTwo = 3```
